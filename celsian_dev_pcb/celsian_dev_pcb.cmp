@@ -1,0 +1,139 @@
+Cmp-Mod V01 Created by PcbNew   date = Sunday, July 03, 2016 'PMt' 04:15:41 PM
+
+BeginCmp
+TimeStamp = 57792DE3
+Path = /57792C38
+Reference = P1;
+ValeurCmp = CONN_01X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 5778862F
+Path = /57673B98
+Reference = U1;
+ValeurCmp = BMD-300;
+IdModule  = celsian:BMD-300;
+EndCmp
+
+BeginCmp
+TimeStamp = 5765B60E
+Path = /57676748
+Reference = B1;
+ValeurCmp = CR2032_Holder;
+IdModule  = celsian:BK-912;
+EndCmp
+
+BeginCmp
+TimeStamp = 57788704
+Path = /577834AD
+Reference = U5;
+ValeurCmp = SN74AUP3G07;
+IdModule  = celsian:SN74AUP3G07;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886F3
+Path = /57675A3F
+Reference = U4;
+ValeurCmp = AT45DB041E;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886E7
+Path = /57673C89
+Reference = U3;
+ValeurCmp = NPA_201;
+IdModule  = celsian:NPA_201;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886D7
+Path = /57673C21
+Reference = U2;
+ValeurCmp = SHT20;
+IdModule  = celsian:SHT20;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886C7
+Path = /5767857B
+Reference = R8;
+ValeurCmp = 66.5;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886C1
+Path = /5767852E
+Reference = R7;
+ValeurCmp = 66.5;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886BB
+Path = /576773A8
+Reference = R3;
+ValeurCmp = 60;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886B5
+Path = /576ED08F
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886AF
+Path = /576755AC
+Reference = D1;
+ValeurCmp = LTST-C195KGJRKT;
+IdModule  = celsian:LTST-C195KGJRKT;
+EndCmp
+
+BeginCmp
+TimeStamp = 577886A4
+Path = /577879DF
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577885F8
+Path = /576740F8
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577885F2
+Path = /57674132
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577885EC
+Path = /57675DC0
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 577885E6
+Path = /57783504
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+EndListe
